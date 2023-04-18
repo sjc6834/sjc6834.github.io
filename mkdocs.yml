@@ -6,7 +6,7 @@ site_description: sjc的个人网站
 
 # [Navigtion]
 nav:
-- 论文笔记:
+  - 论文笔记:
     - PAPERNOTE/index.md 
     - Field_boundary_delineation:
       - Improving field boundary delineation in ResUNets via adversarial deep learning: PAPERNOTE/LiField_boundary_delineationnux/Improving field boundary delineation in ResUNets via adversarial deep learning.md
