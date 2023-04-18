@@ -9,8 +9,8 @@ nav:
   - 论文笔记:
     - PAPERNOTE/index.md 
     - Field_boundary_delineation:
-      - Improving field boundary delineation in ResUNets via adversarial deep learning: PAPERNOTE/LiField_boundary_delineationnux/Improving field boundary delineation in ResUNets via adversarial deep learning.md
-      - Git: LECTURE/Git/git.md
+      - Improving field boundary delineation in ResUNets via adversarial deep learning: PAPERNOTE/Field_boundary_delineationnux/Improving field boundary delineation in ResUNets via adversarial deep learning.md
+      - Git: PAPERNOTE/Git/git.md
   - 讲稿:
     - LECTURE/index.md 
     - Linux:
