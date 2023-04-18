@@ -10,6 +10,7 @@ nav:
     - PAPERNOTE/index.md 
     - Field_boundary_delineation:
       - Improving field boundary delineation in ResUNets via adversarial deep learning: PAPERNOTE/LiField_boundary_delineationnux/Improving field boundary delineation in ResUNets via adversarial deep learning.md
+      - Git: LECTURE/Git/git.md
   - 讲稿:
     - LECTURE/index.md 
     - Linux:
@@ -122,4 +123,3 @@ extra_javascript:
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
-
