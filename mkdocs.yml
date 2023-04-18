@@ -9,10 +9,11 @@ nav:
   - 论文笔记:
     - PAPERNOTE/index.md 
     - Field_boundary_delineation:
-      - Improving field boundary delineation in ResUNets via adversarial deep learning: PAPERNOTE/Field_boundary_delineationnux/Improving field boundary delineation in ResUNets via adversarial deep learning.md
+      - Improving field boundary delineation in ResUNets via adversarial deep learning: PAPERNOTE/Field_boundary_delineation/Improving field boundary delineation in ResUNets via adversarial deep learning.md
       - Git: PAPERNOTE/Git/git.md
   - 讲稿:
     - LECTURE/index.md 
+    - Improving field boundary delineation in ResUNets via adversarial deep learning: LECTURE/Field_boundary_delineation/Improving field boundary delineation in ResUNets via adversarial deep learning.md
     - Linux:
       - Linux讲座: LECTURE/Linux/linux.md
       - 命令行入门精简版: LECTURE/Linux/commands-concise.md
@@ -20,6 +21,7 @@ nav:
       - Markdown讲座: LECTURE/Markdown/markdown.md
       - VSCode及插件安装: LECTURE/Markdown/vscode-extension.md
     - Git:
+      - Improving field boundary delineation in ResUNets via adversarial deep learning: LECTURE/Git/Improving field boundary delineation in ResUNets via adversarial deep learning.md
       - Git: LECTURE/Git/git.md
       - Git例子: LECTURE/Git/git-demos.md
       - Git合作: LECTURE/Git/git-teamwork.md
